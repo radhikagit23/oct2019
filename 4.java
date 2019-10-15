@@ -1,1 +1,2 @@
 MASTER
+line 2
